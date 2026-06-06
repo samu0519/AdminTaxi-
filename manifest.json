@@ -2,7 +2,7 @@
   "name": "TaxiAdmin - Administración de Taxis",
   "short_name": "TaxiAdmin",
   "description": "Panel de administración de flota de taxis",
-  "start_url": "/index.html",
+  "start_url": "/AdminTaxi-/",
   "display": "standalone",
   "background_color": "#0d0d0d",
   "theme_color": "#0a0a0a",
