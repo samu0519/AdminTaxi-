@@ -1,3 +1,4 @@
+importScripts("https://progressier.app/qfbLdXi0gDQwlCpRtRIj/sw.js" );
 const CACHE = 'taxiadmin-v1';
 const ASSETS = ['/', '/index.html'];
 
